@@ -4,7 +4,7 @@
 
 ![Sonika Store Preview](path/to/screenshot.png)
 
-## ✨ Key Features
+1.## ✨ Key Features
 - **⚡ Ultra-Fast** (Optimized assets, lazy loading)
 - **🛒 E-Commerce Essentials**:
   - Product catalog with filters
@@ -18,16 +18,15 @@
   - PHP data validation
 - **📱 Fully Responsive** (Mobile-optimized shopping)
 
-- 🚀 Quick Setup
+2.- 🚀 Quick Setup
 Clone repository:
 
-bash
-git clone https://github.com/yourusername/sonika.git
+git clone https://github.com/sharhanship/sonika.git
 Import sonika_db.sql to phpMyAdmin
 
 Configure payment gateway in config/payment.php
 
-� Admin Dashboard
+3.� Admin Dashboard
 Access: /admin
 
 Features:
@@ -40,14 +39,14 @@ Sales analytics
 
 Customer management
 
-📈 Performance Metrics
+4.📈 Performance Metrics
 Page load: <1.5s avg
 
 Mobile score: 92/100 (Lighthouse)
 
 SEO score: 94/100
 
-## 🛠️ Tech Stack
+5.## 🛠️ Tech Stack
 ```mermaid
 graph TD
   A[Sonika] --> B[Frontend]
