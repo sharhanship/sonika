@@ -2,7 +2,7 @@
 
 **A high-performance online store** specializing in premium audio equipment (headphones, earphones, speakers) with blazing-fast load times and elegant design.
 
-![Sonika Store Preview](path/to/screenshot.png)
+![Sonika Store Preview](https://github.com/sharhanship/sonika/blob/main/introsonika.gif)
 
 1.## ✨ Key Features
 - **⚡ Ultra-Fast** (Optimized assets, lazy loading)
